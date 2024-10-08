@@ -1,5 +1,5 @@
 # ft_printf-42
-Función ft_printf con las conversiones %c, %s, %d, %i, %u, %x, %X, %p, %% (no controla otro otipo de conversion). 
+Función ft_printf con las conversiones %c, %s, %d, %i, %u, %x, %X, %p, %% (no controla otro tipo de conversion). 
 
 ## Parte bonus
 Conversiones con los flags # ' ' (espacio) +.

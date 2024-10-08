@@ -5,7 +5,7 @@ Función ft_printf con las conversiones %c, %s, %d, %i, %u, %x, %X, %p, %% (no c
 Conversiones con los flags # ' ' (espacio) +.
 
 
-KO --> Tiene que ir de forma conjunta con la funcion ft_printf, no separados.
+❌ --> Tiene que ir de forma conjunta con la funcion ft_printf, no separados.
 ### Flag \#
 Para números hexadecimales, %#x y %#X.
 Imprime el prefijo 0x seguido del número hexadecimal.
